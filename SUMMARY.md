@@ -119,6 +119,6 @@
 * 第一百十六回 钟会分兵汉中道 武侯显圣定军山
 * 第一百十七回 邓士载偷度阴平 诸葛瞻战死绵竹
 * 第一百十八回 哭祖庙一王死孝 入西川二士争功
-* 第一百十九回 假投降巧计成虚话 再受禅依样画葫芦
+* [第一百十九回 假投降巧计成虚话 再受禅依样画葫芦](di_yi_bai_shi_jiu_hui_jia_tou_jiang_qiao_ji_cheng_xu_hua_zai_shou_shan_yi_yang_hua_hu_lu.md)
 * [第一百二十回 荐杜预老将献新谋 降孙皓三分归一统](di_yi_bai_er_shi_hui_jian_du_yu_lao_jiang_xian_xin_mou_jiang_sun_hao_san_fen_gui_yi_tong.md)
 
